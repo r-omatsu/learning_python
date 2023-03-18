@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "autoDocstring.docstringFormat": "google",
+    "cSpell.words": [
+        "Pityna"
+    ],
+    "python.defaultInterpreterPath": "/Users/matsumotoryoya/opt/anaconda3/envs/Training",
+}
